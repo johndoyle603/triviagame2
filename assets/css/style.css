@@ -1,5 +1,5 @@
-.anger {
-    background-color: aquamarine;
+.body {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .choice {
@@ -7,4 +7,68 @@
     padding: 10px;
     border-radius: 4px;
     cursor: pointer;
+    font-family: 'Bangers';
+}
+
+.jumbotron {
+    background-color: skyblue;
+    color: goldenrod;
+    font-size: 44px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.titleHead {
+    color: goldenrod;
+    font-size: 44px;
+    font-family: 'Bangers';
+    text-align: center;
+}
+
+.instructions {
+    color: goldenrod;
+    font-size: 22px;
+    padding-top: 44px;
+    text-align: center;
+}
+
+#time {
+    border: 1px solid yellow;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Bangers';
+    font-size: 33px;
+    color: blue;
+}
+
+h4 {
+    border: 1px solid yellow;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Bangers';
+    font-size: 44px;
+}
+
+.container2 {
+    background-color: skyblue;
+    color: darkblue;
+}
+
+#game {
+    border: 1px solid yellow;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Bangers';
+    font-size: 33px;
+    color: blue;
+}
+
+header {
+    margin-bottom: 25px;
+    background-color: skyblue;
+    font-family: 'Bangers';
+    color: yellow;
+    font-size: 75px;
 }
